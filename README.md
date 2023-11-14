@@ -6,7 +6,7 @@ into very high dimensional feature spaces, such as in genomics, proteomics, and 
 
 ![](overview.png)
 
-Crucially, this is not a course about data falsification or intentional research misconduct. Though a few instances of outright fraud are discussed, our focus is the hazy space in which good intentions meet motivated reasoning and high dimensional data. 
+Crucially, this is not a course about data falsification or intentional research misconduct. Our focus is the hazy space in which good intentions meet flawed incentives, motivated reasoning, and high dimensional data. 
 
 ## Fall 2023 Schedule
 
