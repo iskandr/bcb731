@@ -6,7 +6,7 @@ machine learning* (a.k.a., Defense Against the Dark Arts).
 ## Fall 2023 Schedule
 
 | Date           | Topic                                                                                              | Slides / Notebooks  | 
-|----------------|----------------------------------------------------------------------------------------------------|-------|---------------------|
+|----------------|----------------------------------------------------------------------------------------------------|---------------------|
 | Oct. 2nd       | Reproducibility, and the lack thereof, in scientific research                                      | [pdf](https://github.com/iskandr/bcb731/blob/main/slides/1-Intro.pdf)          | 
 | Oct. 4th       | Scientific models, empiricism, statistics, machine learning, and data analysis                     | [pdf](https://github.com/iskandr/bcb731/blob/main/slides/2-All-About-Data.pdf) | 
 | Oct. 9th       | Machine learning, model evaluation, overfitting, and generalization                                |  *whiteboard* |
