@@ -5,9 +5,12 @@ machine learning* (a.k.a., Defense Against the Dark Arts).
 
 ## Fall 2023 Schedule
 
-| Date         | Topic         | Slides     |
-|--------------|---------------|------------|
-| 11/01        | The reproducibility crisis in scientific research | [pdf](https://github.com/iskandr/bcb731/blob/main/slides/1-Intro.pdf) |
+| Date           | Topic                                             | Slides     |
+|----------------|---------------------------------------------------|------------|
+| Oct. 2nd       | The reproducibility crisis in scientific research | [pdf](https://github.com/iskandr/bcb731/blob/main/slides/1-Intro.pdf)          |
+| Oct. 4th       | Statistics, machine learning, and data analysis   | [pdf](https://github.com/iskandr/bcb731/blob/main/slides/2-All-About-Data.pdf) |
+
+
 
 ## Links 
 
