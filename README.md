@@ -5,9 +5,21 @@ machine learning* (a.k.a., Defense Against the Dark Arts).
 
 ## Fall 2023 Schedule
 
-| Date         | Topic         | Slides     |
-|--------------|---------------|------------|
-| 11/01        | Who knows?    | [pdf](?)   |
+| Date           | Topic                                                                                              | Slides / Notebooks  | 
+|-------------|----------------------------------------------------------------------------------------------------|---------------------|
+| 10/2        | Reproducibility, and the lack thereof, in scientific research                                      | [pdf](https://github.com/iskandr/bcb731/blob/main/slides/1-Intro.pdf)          | 
+| 10/4        | Scientific models, empiricism, statistics, machine learning, and data analysis                     | [pdf](https://github.com/iskandr/bcb731/blob/main/slides/2-All-About-Data.pdf) | 
+| 10/9        | Machine learning, model evaluation, overfitting, and generalization                                |  *whiteboard* |
+| 10/16       | The frequentist hypothesis testing version of overfitting: p-hacking, HARKing, & related phenomena |  *whiteboard* |
+| 10/18       | Into the Garden of Forking Paths (studies with same data and many analysts)                        | [pdf](https://github.com/iskandr/bcb731/blob/main/slides/5-Garden-Forking-Paths.pdf) | 
+| 10/23       | *Optimist*: [Genetic basis for clinical response to CTLA-4 blockade in melanoma](https://www.nejm.org/doi/full/10.1056/NEJMoa1406498) | [pdf](https://github.com/iskandr/bcb731/blob/main/slides/6-Optimist-Snyder.pdf) | 
+| 10/25       | *Critic*: [Genetic basis for clinical response to CTLA-4 blockade in melanoma](https://www.nejm.org/doi/full/10.1056/NEJMoa1406498) | [pdf](https://github.com/iskandr/bcb731/blob/main/slides/7-Critic-Snyder.pdf) | 
+| 10/30       | *Optimist*: [A neoantigen fitness model predicts tumor response to checkpoint blockade immunotherapy](https://www.nature.com/articles/nature24473) | [pdf](https://github.com/iskandr/bcb731/blob/main/slides/8-Optimist-Luksza.pdf)|
+| 11/1        | *Critic*: [A neoantigen fitness model predicts tumor response to checkpoint blockade immunotherapy](https://www.nature.com/articles/nature24473) | [pdf](https://github.com/iskandr/bcb731/blob/main/slides/9-Critic-Luksza.pdf) |
+| 11/6        | *Optimist*: [Key Parameters of Tumor Epitope Immunogenicity Revealed Through a Consortium Approach Improve Neoantigen Prediction](https://www.cell.com/cell/fulltext/S0092-8674(20)31156-9) | [pdf](https://github.com/iskandr/bcb731/blob/main/slides/10-Optimist-Wells.pdf) |
+| 11/8        | *Critic*: [Key Parameters of Tumor Epitope Immunogenicity Revealed Through a Consortium Approach Improve Neoantigen Prediction](https://www.cell.com/cell/fulltext/S0092-8674(20)31156-9) | [pdf](https://github.com/iskandr/bcb731/blob/main/slides/11-Critic-Wells.pdf) |
+| 11/13       | Beginner p-hacking bootcamp: leaking labels through feature construction and selection  | [notebook](https://github.com/iskandr/bcb731/blob/main/notebooks/1%20-%20Intro%20to%20splitting%20survival%20curves%20for%20fun%20and%20profit.ipynb) |
+| 11/15       | Intermediate p-hacking: relationship between classifier accuracy and p-values           |  |
 
 ## Links 
 
@@ -83,7 +95,7 @@ machine learning* (a.k.a., Defense Against the Dark Arts).
 * [Why ask why? - Forward causal inference and reverse causal questions](http://www.stat.columbia.edu/~gelman/research/unpublished/reversecausal_13oct05.pdf)
 
 ### PRE-16TH CENTURY SCIENCE & PROTO-SCIENCE:
-* [Archimedes' Sand-Reckoner](https://www.jstor.org/stable/330667
+* [Archimedes' Sand-Reckoner](https://www.jstor.org/stable/330667)
 * [Mathematical Treasures - Zhoubi suanjing](https://maa.org/press/periodicals/convergence/mathematical-treasures-zhoubi-suanjing)
 * [Aristarchus of Samos and Graeco-Babylonian Astronomy](https://grbs.library.duke.edu/index.php/grbs/article/view/11941)
 * [Pliny's Natural History](https://en.wikisource.org/wiki/Natural_History_(Rackham,_Jones,_%26_Eichholz))
