@@ -1,4 +1,4 @@
-# BCB 731: Critical readings in biomedical statistics and machine learning (a.k.a Defense Against the Dark Arts)
+# BCB 731: Critical readings in biomedical statistics and machine learning 
 
 BCB 731 is a survey of recurring statistical errors and pitfalls which are sometimes used to exaggerate the weight of evidence for novel biological claims or inflate the
 estimated accuracy of proposed predictive biomedical models. This course focuses on misapplied analyses of data sources where a small number of biological samples are quantified
