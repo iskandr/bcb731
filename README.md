@@ -16,6 +16,7 @@ machine learning* (a.k.a., Defense Against the Dark Arts).
 | Oct. 25th      | *Critic*: [Genetic basis for clinical response to CTLA-4 blockade in melanoma](https://www.nejm.org/doi/full/10.1056/NEJMoa1406498) | [pdf](https://github.com/iskandr/bcb731/blob/main/slides/7-Critic-Snyder.pdf) | 
 | Oct. 30th      | *Optimist*: [A neoantigen fitness model predicts tumor response to checkpoint blockade immunotherapy](https://www.nature.com/articles/nature24473) | [pdf](https://github.com/iskandr/bcb731/blob/main/slides/8-Optimist-Luksza.pdf)|
 | Nov. 1st       | *Critic*: [A neoantigen fitness model predicts tumor response to checkpoint blockade immunotherapy](https://www.nature.com/articles/nature24473) | [pdf](https://github.com/iskandr/bcb731/blob/main/slides/9-Critic-Luksza.pdf) |
+| Nov. 6th       | *Optimist*: [Key Parameters of Tumor Epitope Immunogenicity Revealed Through a Consortium Approach Improve Neoantigen Prediction](https://www.cell.com/cell/fulltext/S0092-8674(20)31156-9) | [pdf](https://github.com/iskandr/bcb731/blob/main/slides/10-Optimist-Wells.pdf) |
 
 ## Links 
 
