@@ -5,12 +5,21 @@ machine learning* (a.k.a., Defense Against the Dark Arts).
 
 ## Fall 2023 Schedule
 
-| Date           | Topic                                             | Slides     |
-|----------------|---------------------------------------------------|------------|
-| Oct. 2nd       | The reproducibility crisis in scientific research | [pdf](https://github.com/iskandr/bcb731/blob/main/slides/1-Intro.pdf)          |
-| Oct. 4th       | Statistics, machine learning, and data analysis   | [pdf](https://github.com/iskandr/bcb731/blob/main/slides/2-All-About-Data.pdf) |
-
-
+| Date           | Topic                                                                                              | Paper | Slides / Notebooks  | 
+|----------------|----------------------------------------------------------------------------------------------------|-------|---------------------|
+| Oct. 2nd       | Reproducibility, and the lack thereof, in scientific research                                      |       | [pdf](https://github.com/iskandr/bcb731/blob/main/slides/1-Intro.pdf)          | 
+| Oct. 4th       | Scientific models, empiricism, statistics, machine learning, and data analysis                     |       | [pdf](https://github.com/iskandr/bcb731/blob/main/slides/2-All-About-Data.pdf) | 
+| Oct. 9th       | Machine learning, model evaluation, overfitting, and generalization                                |       | *whiteboard* |
+| Oct. 16th      | The frequentist hypothesis testing version of overfitting: p-hacking, HARKing, & related phenomena |       | *whiteboard* |
+| Oct. 18th      | Into the Garden of Forking Paths (studies with same data and many analysts)                        |       | [pdf](https://github.com/iskandr/bcb731/blob/main/slides/5-Garden-Forking-Paths.pdf) | 
+| Oct. 23rd      | *Optimist*                                                                                         | [Genetic basis for clinical response to CTLA-4 blockade in melanoma](https://www.nejm.org/doi/full/10.1056/NEJMoa1406498) | [pdf](https://github.com/iskandr/bcb731/blob/main/slides/6-Optimist-Snyder.pdf) | 
+| Oct. 25th      | *Critic*                                                                                           | [Genetic basis for clinical response to CTLA-4 blockade in melanoma](https://www.nejm.org/doi/full/10.1056/NEJMoa1406498) | [pdf](https://github.com/iskandr/bcb731/blob/main/slides/7-Critic-Snyder.pdf) | 
+| Oct. 30th      | *Optimist*                                                                   | [A neoantigen fitness model predicts tumor response to checkpoint blockade immunotherapy](https://www.nature.com/articles/nature24473) | [pdf](https://github.com/iskandr/bcb731/blob/main/slides/8-Optimist-Luksza.pdf)|
+| Nov. 1st       | *Critic*                                                                     | [A neoantigen fitness model predicts tumor response to checkpoint blockade immunotherapy](https://www.nature.com/articles/nature24473) | [pdf](https://github.com/iskandr/bcb731/blob/main/slides/9-Critic-Luksza.pdf) |
+| Nov. 6th       | *Optimist*                                                                   | [Key Parameters of Tumor Epitope Immunogenicity Revealed Through a Consortium Approach Improve Neoantigen Prediction](https://www.cell.com/cell/fulltext/S0092-8674(20)31156-9) | [pdf](https://github.com/iskandr/bcb731/blob/main/slides/10-Optimist-Wells.pdf) |
+| Nov. 8th       | *Critic*                                                                   | [Key Parameters of Tumor Epitope Immunogenicity Revealed Through a Consortium Approach Improve Neoantigen Prediction](https://www.cell.com/cell/fulltext/S0092-8674(20)31156-9) | [pdf](https://github.com/iskandr/bcb731/blob/main/slides/11-Critic-Wells.pdf) |
+| Nov. 13th      | Beginner p-hacking bootcamp: leaking labels through feature construction and selection  | | [notebook](https://github.com/iskandr/bcb731/blob/main/notebooks/1%20-%20Intro%20to%20splitting%20survival%20curves%20for%20fun%20and%20profit.ipynb) |
+| Nov. 15th      | Intermediate p-hacking: relationship between classifier accuracy and p-values  | | notebook |
 
 ## Links 
 
@@ -86,7 +95,7 @@ machine learning* (a.k.a., Defense Against the Dark Arts).
 * [Why ask why? - Forward causal inference and reverse causal questions](http://www.stat.columbia.edu/~gelman/research/unpublished/reversecausal_13oct05.pdf)
 
 ### PRE-16TH CENTURY SCIENCE & PROTO-SCIENCE:
-* [Archimedes' Sand-Reckoner](https://www.jstor.org/stable/330667
+* [Archimedes' Sand-Reckoner](https://www.jstor.org/stable/330667)
 * [Mathematical Treasures - Zhoubi suanjing](https://maa.org/press/periodicals/convergence/mathematical-treasures-zhoubi-suanjing)
 * [Aristarchus of Samos and Graeco-Babylonian Astronomy](https://grbs.library.duke.edu/index.php/grbs/article/view/11941)
 * [Pliny's Natural History](https://en.wikisource.org/wiki/Natural_History_(Rackham,_Jones,_%26_Eichholz))
