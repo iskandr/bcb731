@@ -1,7 +1,12 @@
 # BCB 731: Defense Against the Dark Arts
 
-Website for UNC BCB 731: *Critical readings in biomedical statistics and
-machine learning* (a.k.a., Defense Against the Dark Arts). 
+BCB 731 is a survey of recurring statistical errors and pitfalls which are sometimes used to exaggerate the weight of evidence for novel biological claims or inflate the
+estimated accuracy of proposed predictive biomedical models. This course focuses on misapplied analyses of data sources where a small number of biological samples are quantified
+into very high dimensional feature spaces, such as in genomics, proteomics, and biomedical imaging. 
+
+![](overview.png)
+
+Crucially, this is not a course about data falsification or intentional research misconduct. Though a few instances of outright fraud are discussed, our focus is the hazy space in which good intentions meet motivated reasoning and high dimensional data. 
 
 ## Fall 2023 Schedule
 
