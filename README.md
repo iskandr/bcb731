@@ -12,7 +12,7 @@ Crucially, this is not a course about data falsification or intentional research
 
 | Date           | Topic                                                                                              | Papers  | 
 |-------------|----------------------------------------------------------------------------------------------------|---------------------|
-| 10/2        | [Reproducibility, and the lack thereof, in scientific research]((https://github.com/iskandr/bcb731/blob/main/slides/1-Intro.pdf)                                              |  | 
+| 10/2        | [Reproducibility, and the lack thereof, in scientific research](https://github.com/iskandr/bcb731/blob/main/slides/1-Intro.pdf)                                              |  | 
 | 10/4        | [Empiricism, scientific models, statistics, machine learning, and data analysis](https://github.com/iskandr/bcb731/blob/main/slides/2-All-About-Data.pdf)                    |  | 
 | 10/9        | Machine learning, model evaluation, overfitting, and generalization (*whiteboard*)                                     |  |
 | 10/16       | The frequentist hypothesis testing version of overfitting: p-hacking, HARKing, & related phenomena (*whiteboard*)      |  |
