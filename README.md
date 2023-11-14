@@ -1,7 +1,13 @@
 # BCB 731: Defense Against the Dark Arts
 
-This repository has some example notebooks from the UNC [BCB 731: *Critical readings in biomedical statistics and
-machine learning*](https://bcb.unc.edu/wp-content/uploads/sites/9553/2023/07/BCB-731-Fall-2023-Syllabus.pdf):  (a.k.a., Defense Against the Dark Arts). 
+Website for UNC BCB 731: *Critical readings in biomedical statistics and
+machine learning* (a.k.a., Defense Against the Dark Arts). 
+
+## Fall 2023 Schedule
+
+| Date         | Topic         | Slides     |
+|--------------|---------------|------------|
+| 11/01        | Who knows?    | [pdf](?)   |
 
 ## Links 
 
@@ -49,8 +55,6 @@ machine learning*](https://bcb.unc.edu/wp-content/uploads/sites/9553/2023/07/BCB
 * [2010 review of Exploratory Data Analysis](https://www.sciencedirect.com/science/article/pii/B9780080448947013270)
 * [2009 review of Exploratory Data Analysis](https://wires.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/wics.2)
 * [Statistical inference for exploratory data analysis and model diagnostics](https://royalsocietypublishing.org/doi/10.1098/rsta.2009.0120)
-
-
 
 ### STATS/ML
 * [Generative Models: An Interdisciplinary Perspective](https://www.annualreviews.org/doi/abs/10.1146/annurev-statistics-033121-110134)
