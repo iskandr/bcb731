@@ -7,7 +7,7 @@ machine learning* (a.k.a., Defense Against the Dark Arts).
 
 | Date         | Topic         | Slides     |
 |--------------|---------------|------------|
-| 11/01        | Who knows?    | [pdf](https://github.com/iskandr/bcb731/blob/main/slides/1-Intro.pdf) |
+| 11/01        | The reproducibility crisis in scientific research | [pdf](https://github.com/iskandr/bcb731/blob/main/slides/1-Intro.pdf) |
 
 ## Links 
 
