@@ -92,7 +92,7 @@ Crucially, this is not a course about data falsification or intentional research
 * [The Nature of Statistical Learning Theory](https://statisticalsupportandresearch.files.wordpress.com/2017/05/vladimir-vapnik-the-nature-of-statistical-learning-springer-2010.pdf)
 * [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb/)
 
-### MODEL OVERFITTING AND INTERPOLATIVE MEMORIZATION (AKA DOUBLE DESCENT)
+### MODEL OVERFITTING / INTERPOLATIVE MEMORIZATION (AKA DOUBLE DESCENT)
 * [Lecture on Bias-Variance Trade-off in Machine Learning](https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote12.html)
 * [Model Selection: Underfitting, Overfitting, and the Bias-Variance Tradeoff](https://dustinstansbury.github.io/theclevermachine/bias-variance-tradeoff)
 * [Reconciling modern machine learning practice and the bias-variance trade-off](https://browse.arxiv.org/pdf/1812.11118.pdf)
@@ -113,12 +113,12 @@ Crucially, this is not a course about data falsification or intentional research
 * [Aryabhatiya of Aryabhata](https://www.wilbourhall.org/pdfs/aryabhatiyaEnglish.pdf)
 * [Islamic astronomy & celestial cartography](https://exhibits.stanford.edu/islamicworld/feature/mapping-the-heavens)
 
-### POST-16TH CENTURY EMPIRICAL SCIENCE (WITHOUT MUCH STATISTICS):
-* [Mathematical Treasure: Copernicus' De Revolutionibus](https://maa.org/press/periodicals/convergence/mathematical-treasure-copernicus-ide-revolutionibusi)
-* [Gallileo's The Assayer (PDF)](https://web.stanford.edu/~jsabol/certainty/readings/Galileo-Assayer.pdf)
-* [Isaac Newton's The Mathematical Principles of Natural Philosophy](https://17centurymaths.com/contents/newton/defs%20axioms.pdf)
-
 ### PRE-MODERN STATISTICS
 * [Domesday Book](https://opendomesday.org/)
 * [John Graunt's Natural and Political Observations Made upon the Bills of Mortality](https://en.wikisource.org/wiki/Natural_and_Political_Observations_Made_upon_the_Bills_of_Mortality_(Graunt_1676))
 * [An argument for divine providence, taken from the constant regularity observ'd in the births of both sexes](https://royalsocietypublishing.org/doi/10.1098/rstl.1710.0011)
+
+### POST-16TH CENTURY EMPIRICAL SCIENCE (WITHOUT MUCH STATISTICS):
+* [Mathematical Treasure: Copernicus' De Revolutionibus](https://maa.org/press/periodicals/convergence/mathematical-treasure-copernicus-ide-revolutionibusi)
+* [Gallileo's The Assayer (PDF)](https://web.stanford.edu/~jsabol/certainty/readings/Galileo-Assayer.pdf)
+* [Isaac Newton's The Mathematical Principles of Natural Philosophy](https://17centurymaths.com/contents/newton/defs%20axioms.pdf)
