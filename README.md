@@ -24,8 +24,8 @@ Crucially, this is not a course about data falsification or intentional research
 | 11/6        | [*Optimist*: Key Parameters of Tumor Epitope Immunogenicity Revealed Through a Consortium Approach Improve Neoantigen Prediction](https://github.com/iskandr/bcb731/blob/main/slides/10-Optimist-Wells.pdf) | [Wells 2020 Cell](https://www.cell.com/cell/fulltext/S0092-8674(20)31156-9) |
 | 11/8        | [*Critic*: Key Parameters of Tumor Epitope Immunogenicity Revealed Through a Consortium Approach Improve Neoantigen Prediction](https://github.com/iskandr/bcb731/blob/main/slides/11-Critic-Wells.pdf) | [Wells 2020 Cell](https://www.cell.com/cell/fulltext/S0092-8674(20)31156-9) |
 | 11/13       | [Beginner p-hacking bootcamp: leaking labels through feature construction and selection](https://github.com/iskandr/bcb731/blob/main/notebooks/1%20-%20Intro%20to%20splitting%20survival%20curves%20for%20fun%20and%20profit.ipynb) (notebook)        |  |
-| 11/15       | Intermediate p-hacking: relationship between classifier accuracy and p-values           |  |
-| 11/20       |   | |
+| 11/15       | [Intermediate p-hacking bootcamp: overfitting from metadata](https://github.com/iskandr/bcb731/blob/main/notebooks/2%20-%20p-hacking%20through%20overfitting%20from%20metadata.ipynb)          |  |
+| 11/20       |  Advanced p-hacking bootcamp | |
 | 11/27       | *Optimist*: Microbiome analyses of blood and tissues suggest cancer diagnostic approach  | [Poore 2020 Nature](https://www.nature.com/articles/s41586-020-2095-1) |
 | 11/29       | *Critic*: Microbiome analyses of blood and tissues suggest cancer diagnostic approach    | [Poore 2020 Nature](https://www.nature.com/articles/s41586-020-2095-1) | 
 | 12/4        |   | |
