@@ -27,7 +27,7 @@ Crucially, this is not a course about data falsification or intentional research
 | 11/15       | [Intermediate p-hacking bootcamp: overfitting a classifier from metadata](https://github.com/iskandr/bcb731/blob/main/notebooks/2%20-%20p-hacking%20through%20overfitting%20from%20metadata.ipynb) (*notebook*)         |  |
 | 11/20       | [Advanced p-hacking bootcamp: classical p-hacking vs. label memorization vs. unkosher feature selection](https://github.com/iskandr/bcb731/blob/main/notebooks/3%20-%20cheating%20by%20feature%20selection.ipynb) | |
 | 11/27       | [*Optimist*: Microbiome analyses of blood and tissues suggest cancer diagnostic approach](https://github.com/iskandr/bcb731/blob/main/slides/12-Optimist-Poore.pdf)  | [Poore 2020 Nature](https://www.nature.com/articles/s41586-020-2095-1) |
-| 11/29       | *Critic*: Microbiome analyses of blood and tissues suggest cancer diagnostic approach    | [Poore 2020 Nature](https://www.nature.com/articles/s41586-020-2095-1) [Gihawi 2023 mBio](https://journals.asm.org/doi/full/10.1128/mbio.01607-23) | 
+| 11/29       | [*Critic*: Microbiome analyses of blood and tissues suggest cancer diagnostic approach](https://github.com/iskandr/bcb731/blob/main/slides/13-Critic-Poore.pdf)    | [Poore 2020 Nature](https://www.nature.com/articles/s41586-020-2095-1) [Gihawi 2023 mBio](https://journals.asm.org/doi/full/10.1128/mbio.01607-23) | 
 | 12/4        |   | |
 | 12/6        |   | | 
 
